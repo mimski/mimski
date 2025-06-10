@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Maria%20Ivanova&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Maria%20Ivanova&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=51&descAlign=62"/>
 </p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mimski.mimski" />
@@ -30,3 +30,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mimski/mimski/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/mimski/mimski/output/github-snake.svg" />
 </picture>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&animation=twinkling"/>
+</p>
