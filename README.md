@@ -1,3 +1,7 @@
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Maria%20Ivanova&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=51&descAlign=62"/>
+</p>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mimski.mimski" />
 
 <h1 align="center">
