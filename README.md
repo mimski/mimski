@@ -51,14 +51,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mimski/mimski/output/github-snake.svg" />
     <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/mimski/mimski/output/github-snake.svg" />
   </picture>
-
-  <br/><br/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mimski/mimski/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mimski/mimski/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/mimski/mimski/output/pacman-contribution-graph.svg" />
-  </picture>
 </div>
 
 <div align="center">
